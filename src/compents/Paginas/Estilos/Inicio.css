@@ -1,0 +1,217 @@
+body{
+    background-color: rgb(14, 97, 153);
+}
+
+
+
+#articulos{
+   
+background-color: rgb(17, 168, 173);
+    width: 700px;
+    height: 300px;
+    margin:80px;
+    margin-top: 60px;
+    color: rgb(0, 0, 0);
+    margin-left: 330px;
+    text-align: center;
+}
+
+/*AL IGUAL QUE EL ANTERIOR, ESTA PARTE NOS SIRVE PARA NUESTRA IMAGEN, EN QUE POSICION LA QUEREMOS
+O TAMAÑO. ESTA ADENTRO DE UN DIV, YA QUE ASI ES MAS FACIL*/
+#imagen1{    
+    background-color: rgba(154, 190, 21, 0.815);
+     width: 500px;
+     height: 300px;
+     margin-top: 60px;
+     margin-left: -210px;
+ }
+
+/*AL IGUAL QUE EL ANTERIOR, ESTA PARTE NOS SIRVE PARA NUESTRA IMAGEN, EN QUE POSICION LA QUEREMOS
+O TAMAÑO. ESTA ADENTRO DE UN DIV, YA QUE ASI ES MAS FACIL*/
+
+
+/*EN ESTE ARTICULO SE ENCUENTRA EN QUE DIRECCION ESTARA, EN QUE TAMAÑO O COLOR*/
+ #articulos2{
+    
+    background-color: rgb(169, 197, 223);
+    width: 700px;
+    height: 400px;
+    margin:50px;
+    margin-top: 100px;
+    color: rgb(0, 0, 0);
+    margin-left: -5px;
+    text-align: center;
+}
+
+/* ESTE NOS SIRVIO PARA CAMBIAR EL TAMAÑO Y POSICION DE NUESTRO TEXTO QUE ESTE ADENTRO DEL ARTICULO*/
+#articulos2 article{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+
+/*EN ESTE ARTICULO SE ENCUENTRA EN QUE DIRECCION ESTARA, EN QUE TAMAÑO O COLOR*/
+#articulos3{
+    
+background-color: rgb(11, 161, 167);
+    width: 600px;
+    height: 400px;
+    margin:80px;
+    margin-top: 25px;
+    color: rgb(0, 0, 0);
+    margin-left: 660px;
+    font-size: 15pxs
+}
+
+/* ESTE NOS SIRVIO PARA CAMBIAR EL TAMAÑO Y POSICION DE NUESTRO TEXTO QUE ESTE ADENTRO DEL ARTICULO*/
+
+#articulos3 article{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+/*AL IGUAL QUE EL ANTERIOR, ESTA PARTE NOS SIRVE PARA NUESTRA IMAGEN, EN QUE POSICION LA QUEREMOS
+O TAMAÑO. ESTA ADENTRO DE UN DIV, YA QUE ASI ES MAS FACIL*/
+#imagen3{    
+    background-color: rgb(50, 2, 71);
+     width: 400px;
+     height: 400px;
+     margin-top: -260px;
+     margin-left: -570px;
+ }
+
+ /*EN ESTE ARTICULO SE ENCUENTRA EN QUE DIRECCION ESTARA, EN QUE TAMAÑO O COLOR*/
+#articulos4{
+    
+    background-color: rgb(160, 191, 236);
+        width: 600px;
+        height: 400px;
+        margin:80px;
+        margin-top: 110px;
+        color: rgb(0, 0, 0);
+        margin-left: 10px;
+        font-size: 15px
+    }
+    
+    /* ESTE NOS SIRVIO PARA CAMBIAR EL TAMAÑO Y POSICION DE NUESTRO TEXTO QUE ESTE ADENTRO DEL ARTICULO*/
+    
+    #articulos4 article{
+        margin-top: 10px;
+        text-align: center;
+        font-size: 20px;
+    }
+    
+    
+    /*AL IGUAL QUE EL ANTERIOR, ESTA PARTE NOS SIRVE PARA NUESTRA IMAGEN, EN QUE POSICION LA QUEREMOS
+    O TAMAÑO. ESTA ADENTRO DE UN DIV, YA QUE ASI ES MAS FACIL*/
+    #imagen4{    
+        background-color: rgb(50, 2, 71);
+         width: 400px;
+         height: 400px;
+         margin-top: -270px;
+         margin-left: -580px;
+     }
+
+ /*EN ESTE ARTICULO SE ENCUENTRA EN QUE DIRECCION ESTARA, EN QUE TAMAÑO O COLOR*/
+ #articulos5{
+    
+    background-color: rgb(11, 161, 167);
+        width: 600px;
+        height: 400px;
+        margin:80px;
+        margin-top: 30px;
+        color: rgb(0, 0, 0);
+        margin-left: 10px;
+        font-size: 15px
+    }
+    
+    /* ESTE NOS SIRVIO PARA CAMBIAR EL TAMAÑO Y POSICION DE NUESTRO TEXTO QUE ESTE ADENTRO DEL ARTICULO*/
+    
+    #articulos5 article{
+        margin-top: 10px;
+        text-align: center;
+        font-size: 20px;
+    }
+    
+    
+    /*AL IGUAL QUE EL ANTERIOR, ESTA PARTE NOS SIRVE PARA NUESTRA IMAGEN, EN QUE POSICION LA QUEREMOS
+    O TAMAÑO. ESTA ADENTRO DE UN DIV, YA QUE ASI ES MAS FACIL*/
+    #imagen5{    
+        background-color: rgb(50, 2, 71);
+         width: 400px;
+         height: 400px;
+         margin-top: -270px;
+         margin-left: -580px;
+     }
+
+/*EN ESTE ARTICULO SE ENCUENTRA EN QUE DIRECCION ESTARA, EN QUE TAMAÑO O COLOR*/
+#articulos6{
+    
+    background-color: rgb(160, 191, 236);
+        width: 600px;
+        height: 400px;
+        margin:80px;
+        margin-top: 30px;
+        color: rgb(0, 0, 0);
+        margin-left: 10px;
+        font-size: 15px
+    }
+    
+    /* ESTE NOS SIRVIO PARA CAMBIAR EL TAMAÑO Y POSICION DE NUESTRO TEXTO QUE ESTE ADENTRO DEL ARTICULO*/
+    
+    #articulos6 article{
+        margin-top: 10px;
+        text-align: center;
+        font-size: 20px;
+    }
+    
+    
+    /*AL IGUAL QUE EL ANTERIOR, ESTA PARTE NOS SIRVE PARA NUESTRA IMAGEN, EN QUE POSICION LA QUEREMOS
+    O TAMAÑO. ESTA ADENTRO DE UN DIV, YA QUE ASI ES MAS FACIL*/
+    #imagen6{    
+        background-color: rgb(50, 2, 71);
+         width: 400px;
+         height: 400px;
+         margin-top: -290px;
+         margin-left: -580px;
+     }
+
+/*Imagens adicionales*/
+
+
+     #imagenP1{    
+        background-color: rgb(50, 2, 71);
+         width: 400px;
+         height: 400px;
+         margin-top: -290px;
+         margin-left: -580px;
+     }
+
+
+     #imagen13{    
+        background-color: rgb(50, 2, 71);
+         width: 400px;
+         height: 400px;
+         margin-top: -300px;
+     margin-left: 400px;
+     }
+
+     #imagen14{    
+        background-color: rgb(43, 155, 219);
+         width: 250px;
+         height: 300px;
+         margin-top: 50px;
+         margin-left: 400px;
+     }
+
+     #imagen2{    
+        background-color: rgb(43, 155, 219);
+         width: 250px;
+         height: 300px;
+         margin-top: -300px;
+     margin-left: -210px;
+     }
